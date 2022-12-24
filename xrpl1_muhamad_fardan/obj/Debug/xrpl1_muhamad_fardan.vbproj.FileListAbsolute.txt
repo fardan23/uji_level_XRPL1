@@ -1,0 +1,35 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.Form2.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.Siswa.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.Jurusan.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.Home.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.exe.config
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.exe
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.xml
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.pdb
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.exe
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.pdb
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\bin\Debug\xrpl1_muhamad_fardan.xml
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.Siswa.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.Jurusan.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.Home.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.Resources.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\xrpl1_muhamad_fardan\xrpl1_muhamad_fardan\obj\Debug\xrpl1_muhamad_fardan.vbproj.GenerateResource.Cache
