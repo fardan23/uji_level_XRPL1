@@ -7,13 +7,13 @@ Program sederhana untuk manajemen inventaris gudang menggunakan **VB.NET**.
 ![Penjualan](https://github.com/fardan23/uji_level_XRPL1/blob/main/images/ujilevel_penjualan.png?raw=true)
 
 ### 📦 Barang
-*belum tersedia gambar preview*
+![Barang](https://github.com/fardan23/uji_level_XRPL1/blob/main/images/ujilevel_barang.png?raw=true)
 
 ### 👥 Customer
-*belum tersedia gambar preview*
+![Customer](https://github.com/fardan23/uji_level_XRPL1/blob/main/images/ujilevel_penjualan.png?raw=true)
 
 ### 🚪 Keluar
-*belum tersedia gambar preview*
+![Keluar](https://github.com/fardan23/uji_level_XRPL1/blob/main/images/ujilevel_keluar.png?raw=true)
 
 ## 📌 Cara Menjalankan
 ```bash
