@@ -1,27 +1,6 @@
 # 📌 Inventory Gudang - VB.NET
 
 Program sederhana untuk manajemen inventaris gudang menggunakan **VB.NET**.
-
-## 📌 Preview Program
-
-### 🔐 Login
-![Login](https://github.com/fardan23/inventory_gudang-vbnet/blob/main/images/inventory_login.png?raw=true)
-
-### 👤 Admin
-![Admin](https://github.com/fardan23/inventory_gudang-vbnet/blob/main/images/inventory_admin.png?raw=true)
-
-### 📦 Barang
-![Barang](https://github.com/fardan23/inventory_gudang-vbnet/blob/main/images/inventory_barang.png?raw=true)
-
-### 🚚 Supplier
-![Supplier](https://github.com/fardan23/inventory_gudang-vbnet/blob/main/images/inventory_supplier.png?raw=true)
-
----
-
-# 📌 Penjualan - VB.NET
-
-Aplikasi sederhana untuk transaksi penjualan menggunakan **VB.NET**.
-
 ## 📌 Preview Program
 
 ### 🛒 Penjualan
