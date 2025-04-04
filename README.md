@@ -1,4 +1,4 @@
-# 📌 Inventory Gudang - VB.NET
+# 📌 Penjualan - VB.NET
 
 Program sederhana untuk manajemen inventaris gudang menggunakan **VB.NET**.
 ## 📌 Preview Program
